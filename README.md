@@ -30,7 +30,7 @@ Este proyecto no se desarrolla activamente pero * aceptará * solicitudes de ext
 
 
 ## Asignar permisos de ejecucion
-- Ex: ~$chmod +x -R aui-master-esp/
+- Ex: ~$`chmod +x -R aui-master-esp/`
 
 
 ## Cómo utilizar
